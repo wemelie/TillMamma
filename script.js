@@ -36,10 +36,10 @@ const reasons = [
   "För att du är den mest omtänksamma personen jag träffat.",
   "För att du får andra att känna sig sedda.",
   "För att du har lärt mig vad riktig kärlek är.",
-  "För att du gör merallt och lite till.",
+  "För att du gör allt och lite till.",
   "För att du är den finaste människan jag vet.",
   "För att du är den starkaste personen jag känner",
-  "För att du är du — och det är allt."
+  "För att du är du."
 ];
 
 const reasonBtn = document.getElementById("reasonBtn");
